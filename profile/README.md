@@ -1,4 +1,4 @@
-<h1 align="center">SSH Ramdisk Script</h1>
+<h1 align="center">palera1n</h1>
 
 <p align="center">
   <a href="#">
