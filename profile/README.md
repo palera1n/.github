@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/made%20with-love-E760A4.svg" alt="Made with love">
   </a>
   <a href="https://dsc.gg/permasigner" target="_blank">
-    <img src="https://img.shields.io/discord/1001905994458206229?label=discord" alt="Discord">
+    <img src="https://img.shields.io/discord/1028398973452570725?label=discord" alt="Discord">
   </a>
   <a href="https://github.com/palera1n/palera1n/graphs/contributors" target="_blank">
     <img src="https://img.shields.io/github/contributors/palera1n/palera1n.svg" alt="Contributors">
