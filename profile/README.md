@@ -23,9 +23,9 @@ Welcome to the palera1n GitHub organization!
 
 # What is palera1n?
 
-palera1n is a tool that will generate patched boot files for you, letting you use apps like Pogo (to bootstrap your device with Procursus) and TrollStore on all versions. 
+palera1n is a tool that will generate patched boot files for you, letting you use apps like the palera1n loader (to bootstrap your device with Procursus and install Sileo and Substitute), TrollStore on all versions, and tweaks on iOS 15 and 16. 
 
-palera1n is a **developer jailbreak**. Want to play around with palera1n? Check out the main repository [here](https://github.com/palera1n/palera1n).
+palera1n is a **developer-oriented jailbreak**. Want to play around with palera1n? Check out the main repository [here](https://github.com/palera1n/palera1n).
 
 ---
 
