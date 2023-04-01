@@ -23,9 +23,11 @@ Welcome to the palera1n GitHub organization!
 
 # What is palera1n?
 
-palera1n is a tool that will generate patched boot files for you, letting you use apps like the palera1n loader (to bootstrap your device with Procursus and install Sileo and Substitute), TrollStore on all versions, and tweaks on iOS 15 and 16. 
+palera1n is a tool that will jailbreak your iOS 15 or iOS 16 device - it includes full tweak support, along with both rootful and rootless variants. It uses [PongoOS](https://github.com/checkra1n/PongoOS/tree/iOS15/) in order to patch the kernel on the fly and setup the jailbreak.
 
 palera1n is a **developer-oriented jailbreak**. Want to play around with palera1n? Check out the main repository [here](https://github.com/palera1n/palera1n).
+
+If your looking for the legacy palera1n, which generates patched boot files for the device, you can find that [here](https://github.com/palera1n/palera1n/tree/legacy).
 
 ---
 
