@@ -1,10 +1,3 @@
-<p align="middle">
-    <br>
-    <a href="https://palera.in">Website</a> ✿
-    <a href="https://twitter.com/palera1n">Twitter</a> ✿
-    <a href="https://dsc.gg/palera1n">Discord</a>
-</p>
-
 ## Information
 Everything used in some way with palera1n can be found in this organization.
 
