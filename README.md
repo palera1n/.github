@@ -28,7 +28,7 @@ This is supposed to be use on your computer to jailbreak your iOS or iPadOS devi
 
 <p align="left">
     <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/kok3shidoll.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
-    <b><a href="https://github.com/kok3shidoll">kok3shidoll</a></b>
+    <b><a href="https://github.com/kok3shidoll">dora2ios</a></b>
     <br>
     <sub>jbinit & KPF</sub>
 </p>
