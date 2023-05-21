@@ -1,11 +1,7 @@
-<p align="left">
-    <img align="left" height="120" src="https://cdn.discordapp.com/attachments/1017854329887129611/1073858292159352862/thing.png" alt="palera1n logo" style="float: left;"/>
-</p>
-
-<p align="right">
-    <a href="https://palera.in">Website</a> ✿ <br> 
-    <a href="https://twitter.com/palera1n">Twitter</a> ✿ <br>
-    <a href="https://dsc.gg/palera1n">Discord</a> ✿
+<p align="middle">
+    <a href="https://palera.in">Website</a> ✿
+    <a href="https://twitter.com/palera1n">Twitter</a> ✿
+    <a href="https://dsc.gg/palera1n">Discord</a>
 </p>
 
 <br clear="both"/>
