@@ -40,7 +40,7 @@ jobs:
 
       - name: Copy README.md over
         run: cp README.md profile/README.md
-        needs: Update README.md
+        if: steps.update-readme.outcome == 'success'
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
