@@ -14,7 +14,7 @@ This is supposed to be use on your computer to jailbreak your iOS or iPadOS devi
 
 <p align="left">
     <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/asdfugil.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
-    <b><a href="https://github.com/asdfugil">Nicky Chan</a></b>
+    <b><a href="https://github.com/asdfugil">Nick Chan</a></b>
     <br>
     <sub>jbinit & palera1n 2.0.0 cli</sub>
 </p>
