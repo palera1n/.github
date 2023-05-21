@@ -1,9 +1,0 @@
-# Code
-httpx
-jinja2
-feedparser
-# Development
-black
-flake8
-mypy
-pip-tools
