@@ -38,6 +38,9 @@ jobs:
       - name: Update README.md
         run: python build-readme.py
 
+      - name: Copy README.md over
+        run: cp README.md profile/README.md
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
