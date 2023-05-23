@@ -9,6 +9,12 @@ palera1n is a developer-oriented jailbreak for checkm8 devices (A8-A11) on iOS 1
 
 This is supposed to be use on your computer to jailbreak your iOS or iPadOS device, a jailbreak FAQ and be found on iOS CFW Guide [here](https://ios.cfw.guide/faq/). More questions on palera1n can be redirected to our [Discord](https://dsc.gg/palera1n).
 
+### Translations
+Our loader app supports localizations while palera1n CLI does not; if you feel that you want to translate the loader in another language, you may do so at https://crowdin.palera.in (preferred).
+
+- If you see any incorrect translations, you may fix them.
+- We will review translations before making the push to the app; when they are pushed, they will appear in the next iteration of palera1n.
+
 ## Team Members
 
 
