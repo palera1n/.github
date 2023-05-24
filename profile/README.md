@@ -1,6 +1,7 @@
 ## Information
 Everything used in some way with palera1n can be found in this organization.
 
+
 - Check out the main repository [here](https://github.com/palera1n/palera1n).
 - Guide can be found [here](https://ios.cfw.guide/installing-palera1n) on how to use palera1n!
 
@@ -22,7 +23,7 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
     <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/asdfugil.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
     <b><a href="https://github.com/asdfugil">Nick Chan</a></b>
     <br>
-    <sub>jbinit & palera1n 2.0.0 cli</sub>
+    <sub>palera1n 2.0.0 cli & jbinit</sub>
 </p>
 
 <p align="left">
@@ -36,14 +37,14 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
     <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/kok3shidoll.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
     <b><a href="https://github.com/kok3shidoll">kok3shidoll</a></b>
     <br>
-    <sub>jbinit & KPF</sub>
+    <sub>KPF & jbinit</sub>
 </p>
 
 <p align="left">
     <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/flowerible.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
-    <b><a href="https://github.com/flowerible">Flower</a></b>
+    <b><a href="https://github.com/flowerible">flower</a></b>
     <br>
-    <sub>Loader Development</sub>
+    <sub>Loader Development & Website</sub>
 </p>
 
 <p align="left">
@@ -57,8 +58,10 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
     <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/itsnebulalol.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
     <b><a href="https://github.com/itsnebulalol">Nebula</a></b>
     <br>
-    <sub>Loader Contributions</sub>
+    <sub>Team Management & Website</sub>
 </p>
 
+
+###### Other credits can be found [here](https://palera.in/other-credits).
 
 </td></tr></table>
