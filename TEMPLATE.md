@@ -1,6 +1,7 @@
 ## Information
 Everything used in some way with palera1n can be found in this organization.
 
+
 - Check out the main repository [here](https://github.com/palera1n/palera1n).
 - Guide can be found [here](https://ios.cfw.guide/installing-palera1n) on how to use palera1n!
 
@@ -25,5 +26,7 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
     <sub>{{ credit.desc }}</sub>
 </p>
 {% endfor %}
+
+###### Other credits can be found [here](https://palera.in/other-credits).
 
 </td></tr></table>
