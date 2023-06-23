@@ -42,7 +42,7 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
 
 <p align="left">
     <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/samiiau.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
-    <b><a href="https://github.com/samiiau">flower</a></b>
+    <b><a href="https://github.com/samiiau">Samara</a></b>
     <br>
     <sub>Loader Development & Website</sub>
 </p>
