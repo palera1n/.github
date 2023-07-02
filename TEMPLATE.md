@@ -16,7 +16,7 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
 - If you see any incorrect translations, you may fix them.
 - We will review translations before making the push to the app; when they are pushed, they will appear in the next iteration of palera1n.
 
-## Team Members
+## Made by
 
 {% for credit in credits %}
 <p align="left">
