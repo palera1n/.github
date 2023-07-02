@@ -16,7 +16,7 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
 - If you see any incorrect translations, you may fix them.
 - We will review translations before making the push to the app; when they are pushed, they will appear in the next iteration of palera1n.
 
-## Team Members
+## Made by
 
 
 <p align="left">
@@ -31,6 +31,13 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
     <b><a href="https://github.com/kok3shidoll">kok3shidoll</a></b>
     <br>
     <sub>KPF & jbinit</sub>
+</p>
+
+<p align="left">
+    <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/plooshi.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
+    <b><a href="https://github.com/plooshi">Tom</a></b>
+    <br>
+    <sub>KPF & Kernel patches</sub>
 </p>
 
 <p align="left">
