@@ -27,6 +27,6 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
 </p>
 {% endfor %}
 
-###### Other credits can be found [here](https://palera.in/other-credits).
+###### [Other credits can be found here](https://palera.in/other-credits).
 
 </td></tr></table>
