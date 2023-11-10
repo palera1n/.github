@@ -27,5 +27,5 @@ jobs:
         with:
           commit_message: "feat: Update README.md"
           commit_author: ssalggnikool
-          commit_author_email: ssalggnikool@users.noreply.github.com
+          commit_user_email: ssalggnikool@users.noreply.github.com
           add: 'profile README.md'
