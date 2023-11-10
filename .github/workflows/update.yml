@@ -26,4 +26,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "feat: Update README.md"
+          commit_author: ssalggnikool
+          commit_author_email: ssalggnikool@users.noreply.github.com
           add: 'profile README.md'
