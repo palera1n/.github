@@ -65,7 +65,7 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
     <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/mineek.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
     <b><a href="https://github.com/mineek">mineek</a></b>
     <br>
-    <sub>Moral support! jk ur amazing</sub>
+    <sub>MINEEK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</sub>
 </p>
 
 
