@@ -35,7 +35,7 @@ Our loader app supports localizations while palera1n CLI does not; if you feel t
 
 <p align="left">
     <img align="left" height="50px" width="50px" src="https://images.weserv.nl/?url=https://github.com/plooshi.png&amp;fit=cover&amp;mask=circle&amp;maxage=7d" alt="Avatar">
-    <b><a href="https://github.com/plooshi">Tom</a></b>
+    <b><a href="https://github.com/plooshi">The Plush</a></b>
     <br>
     <sub>KPF</sub>
 </p>
